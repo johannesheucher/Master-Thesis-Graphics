@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="612.0317"
-     inkscape:cy="407.99483"
+     inkscape:cy="246.37042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2285,5 +2285,42 @@
        cx="322.36246"
        id="circle6774"
        style="opacity:1;fill:#77ddff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(47.507505,820.2132)"
+       id="g6240">
+      <g
+         id="g5784">
+        <path
+           style="opacity:1;fill:#a4a4a4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 318.13672,543.30664 -6,6 0,103.03516 78.79297,0 6,-6 0,-103.03516 z"
+           id="rect5630"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect5628"
+           width="78.791901"
+           height="103.03556"
+           x="312.13715"
+           y="549.30621" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12.66225433px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="349.81396"
+           y="594.06708"
+           id="text5635"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5637"
+             x="349.81396"
+             y="594.06708"
+             style="text-align:center;text-anchor:middle">BoW</tspan><tspan
+             sodipodi:role="line"
+             x="349.81396"
+             y="609.8949"
+             id="tspan5639"
+             style="text-align:center;text-anchor:middle">Dictionary</tspan></text>
+      </g>
+    </g>
   </g>
 </svg>
